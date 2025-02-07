@@ -19,6 +19,7 @@
     "express": "^4.16.4",
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.3.0",
+    "dotenv":"^16.0.0",
     "mongoose": "^6.0.0",  // Updated Mongoose version to the latest stable version
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
